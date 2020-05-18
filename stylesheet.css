@@ -1,0 +1,14 @@
+p{
+    text-align: center;
+}
+input{
+    font-size: 50px;
+    margin-bottom: 20px;
+    padding: 0 30px;
+    border-radius: 8px;
+}
+#clear{
+    color: brown;
+    font-size: large;
+    padding-top: 20px;
+}
